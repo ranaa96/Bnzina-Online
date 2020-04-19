@@ -1,5 +1,5 @@
 <script type="text/javascript"
-src="https://maps.googleapis.com/maps/api/js?language=en&key=AIzaSyDS5AwUrTwTyRSjOA3KFWFnGFVe-6v8UOM">
+src="https://maps.googleapis.com/maps/api/js?language=en&key=">
 </script>
 
                             <script>
